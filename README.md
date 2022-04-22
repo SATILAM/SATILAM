@@ -1,5 +1,8 @@
 ###Olá! Eu sou o Átila Soares Mendonça o SATILAM 🖐️
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1tila-soares-mendon%C3%A7a-793513b3/)
+
+
 ![SATILAM GitHub stats](https://github-readme-stats.vercel.app/api?username=SATILAM&show_icons=true&theme=dracula)
 
 ##Estudando

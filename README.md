@@ -22,4 +22,5 @@
  Estou à procura de uma oportunidade na área de Front-end.
 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/3479df614a5e8cb42dacd0dabe5de109.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
-  
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SATILAM&layout=compact)](https://github.com/SATILAM/github-readme-stats)

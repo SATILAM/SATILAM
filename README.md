@@ -1,9 +1,6 @@
-### Olá! Eu sou o Átila Soares Mendonça, o SATILAM 🖐️ <br></br>
+### Olá! Eu sou o Átila Soares Mendonça, o SATILAM 🖐️ 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1tila-soares-mendon%C3%A7a-793513b3/)
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://SÁTILAM#1320/)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1tila-soares-mendon%C3%A7a-793513b3/) [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/SÁTILAM#1320/)
 
 ![SATILAM GitHub stats](https://github-readme-stats.vercel.app/api?username=SATILAM&show_icons=true&theme=dracula)
 
@@ -29,3 +26,4 @@
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/3479df614a5e8cb42dacd0dabe5de109.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"> <br></br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SATILAM&layout=compact)](https://github.com/SATILAM/github-readme-stats)
+

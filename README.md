@@ -2,6 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1tila-soares-mendon%C3%A7a-793513b3/)
 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://SÁTILAM#1320/)
+
 
 ![SATILAM GitHub stats](https://github-readme-stats.vercel.app/api?username=SATILAM&show_icons=true&theme=dracula)
 

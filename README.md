@@ -31,10 +31,10 @@
          <img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black" />
          </div><br/>
 
-  Passionate about technology, knowledge, discovering new things and solving problems. Programming fascinates me.<br/>
+ Passionate about technology, knowledge, discovering new things and solving problems. Programming fascinates me.<br/>
  I'm looking for an opportunity in the field of Front-End Web Developer and Salesforce.
+ <hr>
 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/3479df614a5e8cb42dacd0dabe5de109.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"> </br>
-
 
 ![Snake animation](https://github.com/SATILAM/SATILAM/blob/output/github-contribution-grid-snake.svg)

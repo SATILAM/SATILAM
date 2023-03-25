@@ -6,7 +6,7 @@
 
 ![Banner](https://user-images.githubusercontent.com/101275634/227586981-3daeca69-ef1e-49d9-ab23-84037f5e88f4.png)
 
-![SATILAM GitHub stats](https://github-readme-stats.vercel.app/api?username=SATILAM&show_icons=true&theme=dracula) {(==📊==)} ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SATILAM&layout=compact&theme=dracula) 
+![SATILAM GitHub stats](https://github-readme-stats.vercel.app/api?username=SATILAM&show_icons=true&theme=dracula){(==📊==)}![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SATILAM&layout=compact&theme=dracula) 
 
 ## Currently Studying 👨🏽‍💻
 

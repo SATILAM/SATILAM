@@ -1,6 +1,6 @@
 ### Hello! Welcome to my Github! I am Átila Soares Mendonça, SÁTÍLAM 🖐️     
    
-############### ############## [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atilasoaresmendonca@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1tila-soares-mendon%C3%A7a-793513b3/) [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/SÁTILAM#1320/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-VI7Z1COYu8&t=5s) ########################
+############### ############## [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atilasoaresmendonca@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1tila-soares-mendon%C3%A7a-793513b3/) [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/SÁTILAM#1320/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-VI7Z1COYu8&t=5s) #################
 
 ![Banner](https://user-images.githubusercontent.com/101275634/227586981-3daeca69-ef1e-49d9-ab23-84037f5e88f4.png)
 

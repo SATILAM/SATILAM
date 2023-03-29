@@ -1,12 +1,12 @@
 ### Hello! Welcome to my Github! I am Átila Soares Mendonça, SÁTÍLAM 🙋🏽‍♂️  
 <hr>
    
-############### ############## [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atilasoaresmendonca@gmail.com)  <a href="https://www.linkedin.com/in/%C3%A1tila-soares-mendon%C3%A7a-793513b3/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://www.discordapp.com/SÁTILAM#1320/" target="_blank"><img alt="DISCORD" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://www.youtube.com/watch?v=-VI7Z1COYu8&t=5s" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> ###################
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atilasoaresmendonca@gmail.com)  <a href="https://www.linkedin.com/in/%C3%A1tila-soares-mendon%C3%A7a-793513b3/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://www.discordapp.com/SÁTILAM#1320/" target="_blank"><img alt="DISCORD" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://www.youtube.com/watch?v=-VI7Z1COYu8&t=5s" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> 
 <hr>
 
 ![Banner](https://user-images.githubusercontent.com/101275634/227586981-3daeca69-ef1e-49d9-ab23-84037f5e88f4.png)
 
-![SATILAM GitHub stats](https://github-readme-stats.vercel.app/api?username=SATILAM&show_icons=true&theme=dracula){(==📊==)}![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SATILAM&layout=compact&theme=dracula) 
+![SATILAM GitHub stats](https://github-readme-stats.vercel.app/api?username=SATILAM&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SATILAM&layout=compact&theme=dracula) 
 
 ## Currently Studying 👨🏽‍💻
 
